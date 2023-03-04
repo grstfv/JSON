@@ -1,0 +1,49 @@
+{
+	"person":"Egor",
+       {
+  "personal_information":[
+    {
+      "name": "Egor Astafev",
+      "age": 27,
+      "citizenship": "Russian Federation",
+      "city": "Nizhny Novgorod",
+      "have_kids": false,
+      "education": {
+        "educational_institution": "College of Moscow Technological Institute",
+        "direction_of_training": "information systems and programming"
+      },
+      "career_objective": "junior QA engineer",
+      "phones": {
+        "mobile": 89875483181,
+        "home": null
+      }
+    }
+    ],
+    "skills": [
+      {
+        "softskills": [
+        "ambition",
+        "focus",
+        "timemenegement",
+        "friendliness",
+        "attention to detail",
+        "communication skills"
+      ]
+      },
+      {
+        "hardskills": [
+        "testing theory",
+        "test design techniques",
+        "SQL",
+        "JSON",
+        "XML",
+        "HTML",
+        "Devtools",
+        "Postman",
+        "CSS"
+      ]
+      }
+    ]
+}
+
+}
