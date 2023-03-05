@@ -1,13 +1,13 @@
 {
-	"favorite_movie": "Forrest Gump",
-	"favorite_actor": "Tom Hanks",
-	"favorite_show": "Breaking Bad",
-	"favorite_food": [
-	"pizza",
-	"pasta",
-	"fried chiken",
-	"khachapuri"
-	],
-	"fovorite_season":"summer",
-	"country_I_would_like_to_visit":"Iceland"
+    "favorite_movie": "Forrest Gump",
+    "favorite_actor": "Tom Hanks",
+    "favorite_show": "Breaking Bad",
+    "favorite_food": [
+        "pizza",
+        "pasta",
+        "fried chiken",
+        "khachapuri"
+    ],
+    "fovorite_season": "summer",
+    "country_I_would_like_to_visit": "Iceland"
 }
