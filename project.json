@@ -1,0 +1,18 @@
+{
+  "projects": {
+    "project": [
+      {
+        "number": 123,
+        "date": "12.03.2023",
+        "customer": "Ivanov",
+        "price": 500
+      },
+      {
+        "number": 124,
+        "date": "12.03.2023",
+        "customer": "Petrov",
+        "price": 500
+      }
+    ]
+  }
+}
